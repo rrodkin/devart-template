@@ -1,16 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            ""
         ],
         "platforms": [
             "Android, iOS"
+        ],
+        "languages": [
+          "JavaScript, C-Sharp"  
         ],
         "toolkits": [
             "Unity, PlayMaker, Vectrosity, NGUI"
         ]
     },
     "themes": [
-        "insert themes"
+        "Differential Motion, Polar Geometry"
     ]
 }
