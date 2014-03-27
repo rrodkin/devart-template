@@ -4,10 +4,10 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "Android, iOS"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Unity, PlayMaker, Vectrosity, NGUI"
         ]
     },
     "themes": [
