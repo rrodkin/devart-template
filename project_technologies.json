@@ -1,16 +1,21 @@
 {
     "technologies": {
         "apis": [
-            ""
+            "N/A"
         ],
         "platforms": [
-            "Android, iOS"
+            "Android"
+            "iOS"
         ],
         "languages": [
-          "JavaScript, C-Sharp"  
+          "JavaScript"
+          "C-Sharp"  
         ],
         "toolkits": [
-            "Unity, PlayMaker, Vectrosity, NGUI"
+            "Unity"
+            "PlayMaker"
+            "Vectrosity"
+            "NGUI"
         ]
     },
     "themes": [
