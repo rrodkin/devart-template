@@ -13,10 +13,3 @@ It took me a while to figure what the path was exactly, but after sketching and 
 ![Early analytical sketches while studying Matrix III][../project_images/artifish_sketch_03.jpg?raw=true “Early Sketches”)
 
 Since time is of the essence — even beyond the 3/28 deadline, as July is not that far off — we need to clearly define scope, so here’s a brief rundown.
-
-
-<!——
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
-—->
