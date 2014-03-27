@@ -1,33 +1,40 @@
 # Project Title
-Insert the name of your project
+####artifish
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Richard Rodkin
+- [https://github.com/rrodkin](https://github.com/rrodkin "Github")
+
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+**artifish** was born while I was creating an updated and interactive version of John Whitney's 1972 classic, **Matrix III**. This initial prototype consists of six sinuous creatures (the 'fish') whose motion across the screen is governed by the principles of Differential Motion, resulting in a meditative visual counterpoint.
+
+In this iteration, participants will be able to view and interact with a web-based version of the piece, though it will ultimately be deployed to iOS and Android devices as well as stand-alone flatscreens.  Interactive parameters include variable speed and direction, as well as an array of preset paths for the fish to follow.
+
+Future versions will allow users to populate the communal aquarium with a variety of unique digital creatures and vegitation.
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
+Coming very soon, stay tuned!
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+I'm using JavaScript to create the splines/paths that guide the fish.  The splines consist largely of polar curves (Rhodonea, Lissajous, SuperFormula, etc.), which are then fed-in to a couple of Unity plugins (Vectrosity and PlayMaker) for rendering.  Here's a snippet: 
 
-[Example Link](http://www.google.com "Example Link")
+```
+spline = new VectorLine("TheSpline", new Vector3[segments+1], lineColor, null, 1.0, LineType.Continuous);
+var splineObjRef = gameObject.Find("Vector TheSpline");
+spline.MakeSpline (splinePoints.ToArray(), segments, loop);
+spline.Draw3D();
+showSpline(false);
+```
+
 
 ## Images & Videos
+
+#### Coming Soon!
+<!---
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
+-->
