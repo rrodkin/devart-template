@@ -10,6 +10,6 @@ In the first segment, which lasts under two minutes, Whitney presents us with fo
 
 It took me a while to figure what the path was exactly, but after sketching and resketching (see below), it became apparent that the path consisted of a Lissajous curve.
 
-![Early analytical sketches while studying Matrix III](../project_images/artifish_sketch_03.jpg?raw=true “Early Sketches”)
+![Early analytical sketches while studying Matrix III](../project_images/artifish_sketch_03.jpg?raw=true width=400 “Early Sketches”)
 
 Since time is of the essence — even beyond the 3/28 deadline, as July is not that far off — we need to clearly define scope, so here’s a brief rundown.
