@@ -24,4 +24,4 @@ Despite the objects being so simple — again, a disc and a “trail”, the res
 
 ##Next Post . . .
 
-Now that you have some background, it’s time to define the scope for this project.  Aside from the fact that there are barely two days left, there is precious little time until July . . . 
+Now that you have some background, it’s time to define the scope for this project.  Aside from the fact that there are barely two days left until March 28, there is precious little time until July . . . 
