@@ -9,7 +9,7 @@
 
 In this iteration, participants will be able to view and interact with a web-based version of the piece, though it will ultimately be deployed to iOS and Android devices as well as stand-alone flatscreens.  Interactive parameters include variable speed and direction, as well as an array of preset paths for the fish to follow.
 
-Future versions will allow users to populate the communal aquarium with a variety of unique digital creatures and vegitation.
+Future versions will allow users to populate the communal aquarium with a variety of unique digital creatures and vegitation, as well as create their own paths directly on a touchscreen.
 
 ## Link to Prototype
 Coming very soon, stay tuned!
