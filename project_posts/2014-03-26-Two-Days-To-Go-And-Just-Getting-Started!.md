@@ -12,9 +12,9 @@ It took me a while to figure what the path was exactly, but after sketching and 
 
 Here are a few of the analytical sketches:
 
-![Early analytical sketches while studying Matrix III][../project_images/artifish_sketch_03.jpg?raw=true “Early Sketches”)
+![Early analytical sketches while studying Matrix III](../project_images/artifish_sketch_03.jpg?raw=true “Early Sketches”)
 
-![Early analytical sketches while studying Matrix III][../project_images/artifish_sketch_04.jpg?raw=true “Early Sketches”)
+![Early analytical sketches while studying Matrix III](../project_images/artifish_sketch_04.jpg?raw=true “Early Sketches”)
 
 ##Artifish is Born
 
