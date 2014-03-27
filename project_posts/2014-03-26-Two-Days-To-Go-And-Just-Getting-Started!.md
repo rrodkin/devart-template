@@ -10,14 +10,8 @@ In the first segment, which lasts under two minutes, Whitney presents us with fo
 
 It took me a while to figure what the path was exactly, but after sketching and resketching (see below), it became apparent that the path consisted of a Lissajous curve. On a lark, I decided to apply Whitney’s well-known principle of Differential Motion to control the speed of each disc.  This basically means that if Disc 1 is moving at rate N, Disc 2 travels at rate N+1, Disc 3 at N+2, and so on.  Sure enough, this is what he was doing, and I’d nailed the effect.
 
-<<<<<<< HEAD
 Here are a few of the analytical sketches:
 
 ![Early analytical sketches while studying Matrix III][../project_images/artifish_sketch_03.jpg?raw=true “Early Sketches”)
 
 ![Early analytical sketches while studying Matrix III][../project_images/artifish_sketch_04.jpg?raw=true “Early Sketches”)
-=======
-![Early analytical sketches while studying Matrix III](../project_images/artifish_sketch_03.jpg?raw=true “Early Sketches”)
-
-Since time is of the essence — even beyond the 3/28 deadline, as July is not that far off — we need to clearly define scope, so here’s a brief rundown.
->>>>>>> FETCH_HEAD
