@@ -8,9 +8,3 @@ As I mentioned in the description, I’d been working on an interactive version 
 
 Since time is of the essence — even beyond the 3/28 deadline, as July is not that far off — we need to clearly define scope, so here’s a brief rundown.
 
-
-<!——
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
-—->
