@@ -1,6 +1,6 @@
 ##Background
 
-As I mentioned in the description, I’d been working on an interactive version of John Whitney’s **Matrix III**.  If you haven’t seen it, and you’re even mildly interested in computer-generated art, [this is a must see](http://youtu.be/ZrKgyY5aDvA).
+As I mentioned in the description, I’d been working on an interactive version of John Whitney’s **Matrix III**.  If you haven’t seen the film, and you’re even mildly interested in computer-generated art, [this is a must see](http://youtu.be/ZrKgyY5aDvA).
 
 In the first segment, which lasts under two minutes, Whitney presents us with four sets of six white discs, which he proceeds to shuffle about the screen in what may initially seem like a chaotic fashion.  Just the opposite.  He is actually moving the discs along a spline (e.g. a track), and in a very precise way.
 
