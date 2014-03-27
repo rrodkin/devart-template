@@ -4,21 +4,22 @@
             "N/A"
         ],
         "platforms": [
-            "Android"
+            "Android",
             "iOS"
         ],
         "languages": [
-          "JavaScript"
+          "JavaScript",
           "C-Sharp"  
         ],
         "toolkits": [
-            "Unity"
-            "PlayMaker"
-            "Vectrosity"
+            "Unity",
+            "PlayMaker",
+            "Vectrosity",
             "NGUI"
         ]
     },
     "themes": [
-        "Differential Motion, Polar Geometry"
+        "Differential Motion",
+        "Polar Geometry"
     ]
 }
