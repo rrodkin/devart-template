@@ -2,8 +2,7 @@
 ####artifish
 
 ## Authors
-- Richard Rodkin
-- [https://github.com/rrodkin](https://github.com/rrodkin "Github")
+- Richard Rodkin, [https://github.com/rrodkin](https://github.com/rrodkin "Github")
 
 
 ## Description
