@@ -2,12 +2,11 @@
     "technologies": {
         "platforms": [
             "Android",
-            "iOS"
+            "iOS",
+            "JavaScript",
+            "C-Sharp"
         ],
-        "languages": [
-          "JavaScript",
-          "C-Sharp"  
-        ],
+
         "toolkits": [
             "Unity",
             "PlayMaker",
