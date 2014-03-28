@@ -26,7 +26,8 @@ Now, porting to iOS and Android may sound complex, and this brings us to a brief
 
 The heart of the setup, the primary canvas, as it were, is the Unity game engine.  We’re using the free version for now, which is more appealing in the context of open-source environments.  There are many reasons we’ve chosen Unity, probably too many to list, but chiefly Unity truly lets us build once and deploy to many platforms, literally at the touch of a button.  It is just as easy to create a build for the Web, as it is for iOS or Android.  And it really works.
 
-Unity also supports a variety of scripting language.  As I’ve been writing JavaScript since around 1995, this makes it very appealing.  True, it’s actually “Unity Script”, an odd variant of ECMA Script, but easy enough to adapt.  There is also a fair amount of C-Sharp code floating around.
+Unity also supports a variety of scripting languages, including C#, Javascript, and Boo.  As I’ve been writing JavaScript since around 1995, this makes it very appealing.  True, it’s actually “Unity Script”, an odd variant of ECMA Script, but easy enough to adapt.
+
 
 ###Unity Plugins
 
