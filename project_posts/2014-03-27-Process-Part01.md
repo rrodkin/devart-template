@@ -64,7 +64,9 @@ if(splineReady){
 
 ```
 
-And there you have it, spline-generation accomplished!  From there I simply created a long set of if/else statements (to possibly be converted to a Case statement), one block per each curve type. To make it easier, I made the variable public, which exposes it in Unity’s inspector as a text input field, so I can supply the desired parameter directly through the GUI rather than the script itself.  Nice!! 
+And there you have it, spline-generation accomplished!  From there I simply created a long set of if/else statements (to possibly be converted to a Case statement), one block per each curve type. To make it easier, I made the variable public, which exposes it in Unity’s inspector as a text input field, so I can supply the desired parameter directly through the GUI rather than the script itself.  
+
+Now, just one last thing.  As I mentioned above, that last bit of code is used to pass the point data to Playmaker so we can use it later, most notably for positioning our fish objects and breathing life into them.  I’ve created a “Spline Manager” object in Unity that serves to hold not only the script, but also the state machine that communicates between the script and fish objects.  I’ll dive into this in more detail when I discuss how we get the fish to follow the spline.
 
 
 
