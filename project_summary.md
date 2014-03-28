@@ -15,7 +15,7 @@ Future versions will allow users to populate the communal aquarium with a variet
 
 ##Link to Prototype
 
-The <a href=“http://artifish.memeticarts.com”>functional prototype</a> is live!  This will currently run in your browser, but you need to <a href=“https://unity3d.com/webplayer”>download the Unity Plugin</a> first. 
+The [functional prototype](http://artifish.memeticarts.com) is live!  This will currently run in your browser, but you need to [download the Unity Plugin](https://unity3d.com/webplayer) first. 
 
 Here’s a quick rundown of the key commands, as I don’t have all the info up on the site yet:
 
