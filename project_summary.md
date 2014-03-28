@@ -23,6 +23,7 @@ Here’s a quick rundown of the key commands, as I don’t have all the info up 
 
 - SpaceBar: Start
 
+- P: Pause
 
 - S: Stop
 
