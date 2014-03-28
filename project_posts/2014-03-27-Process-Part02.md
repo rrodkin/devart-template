@@ -1,4 +1,4 @@
-#Process - Part 02: Teaching Fish to Swim 
+##Process - Part 02: Teaching Fish to Swim 
 
 While it was easy enough to get one object running on the spline, finding an efficient way to direct many objects, while still giving them some “autonomy” was not immediately clear.  But again, it was a matter of marrying some hand-coded JavaScript with a PlayMaker FSM.  Basically, the script contains the core functions for movement on the spline, such direction and speed, while PlayMaker talks to the fish objects.  PlayMaker then takes user input and applies it to the fish, per the script.  Furthermore, the fish are effectively clones of each other, thanks to Unity’s “prefab” feature.  This lets you create one “master” object, and then instantiate it as often as needed.  You can modify the master, and the changes are applied to all instances.  Another great Unity feature!
 
