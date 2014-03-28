@@ -15,26 +15,18 @@ Future versions will allow users to populate the communal aquarium with a variet
 
 ##Link to Prototype
 
-The <a href=“http://artifish.memeticarts.com”>functional prototype</a> is live!  This will currently run in your browser, but you need to download the Unity Plugin first. 
+The <a href=“http://artifish.memeticarts.com”>functional prototype</a> is live!  This will currently run in your browser, but you need to <a href=“https://unity3d.com/webplayer”>download the Unity Plugin</a> first. 
 
 Here’s a quick rundown of the key commands, as I don’t have all the info up on the site yet:
 
 - Keys 1-8: Switch curve types.  Hitting any of these keys at any time will stop the current action and load the  new curve type.  The curves, in order, are as follows: 8-petal Rose, 3-petal Rose, Gear, Starfish, Lemniscate (Figure-8), Lissajous, Random Curve, Gear2.
-
 - SpaceBar: Start
-
 - P: Pause
-
 - S: Stop
-
 - R: Reverse
-
 - X: Speed up
-
 - Z: Slow Down
-
 - L: Toggle spline visibility
-
 
 ##Example Code
 I'm using JavaScript to create the splines/paths that guide the fish.  The splines consist largely of polar curves (Rhodonea, Lissajous, SuperFormula, etc.), which are then fed-in to a couple of Unity plugins (Vectrosity and PlayMaker) for rendering.  Here's a snippet of the code that actually takes the generated point-set to create a spline for the fish to follow: 
