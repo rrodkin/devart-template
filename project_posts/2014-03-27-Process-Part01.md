@@ -32,6 +32,8 @@ while(i<=numPts){
 	r = Mathf.Sin(n*t); // Rose Curve;
 ```
 Here is the meat of it -- where we actually assign the coordinates to our X and Y variables. Once we have the numbers, we convert into Unity-speak, as a Vector3 (see the variable “pt”), and we iteratively add each point to the splinePoints List (array).  Piece o’cake!  Or Pi?
+
+```
 	ptValX = s * (r * Mathf.Cos(t));
 	ptValY = s * (r * Mathf.Sin(t));
 	pt = Vector3(ptValX,ptValY,-2);
