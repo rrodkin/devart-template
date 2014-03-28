@@ -9,6 +9,7 @@ Few will argue that gazing into an aquarium of beautiful fish can be relaxing, s
 
 **artifish** was born while I was creating an updated and interactive version of John Whitney's 1972 classic, **Matrix III**. This initial prototype consists of six sinuous creatures (the 'fish') whose motion across the screen is governed by the principles of Differential Motion, resulting in a meditative visual counterpoint.
 
+In this iteration, participants will be able to view and interact with a web-based version of the piece, though it will ultimately be deployed to iOS and Android devices as well as stand-alone flat-screens.  Interactive parameters include variable speed and direction, as well as an array of preset paths for the fish to follow.
 
 Future versions will allow users to populate the communal aquarium with a variety of unique digital creatures and vegetation, as well as create their own paths directly on a touchscreen.
 
