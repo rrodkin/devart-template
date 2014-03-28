@@ -5,10 +5,15 @@
 I am intentionally keeping the scope very narrow, at least for the short term.  There are definitely some stretch goals, but for now, here is what is planned for the DevArt proposal:
 
 - The virtual “aquarium” will consist of one digital species, that being the original fish as described in the introductory post and project description
+
 - The application will provide a set of interactive controls allowing the user to:
+
 -- Start, Pause, Stop, and Reset the fish’s motion
+
 -- Set the direction in which the fish swim (Forward or Reverse)
+
 -- Select the type of curve on which the fish swim.  Curve types include: Lissajous, 8-petal Rose (Rhodonea), Lemniscate (Figure-8), several SuperFormula-generated curves (22-tooth Gear, Simple Gear, Star), as well as a Randomly-generated curve.
+
 -- View (and hide) the spline
 
 The completed application will be ported to Android and iOS, and will include a touch-based GUI.  If all goes well, I will also implement user-generated paths, by means of finger-swiping on the screen (or via mouse if web-based).
