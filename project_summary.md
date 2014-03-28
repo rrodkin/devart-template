@@ -5,7 +5,7 @@
 
 
 ## Description
-Few will argue that gazing into an aquarium of beautiful fish can be relaxing, soothing, even meditative.  There is something about arc of their path, the slow pulsing of the tail and fins. . . the reflective ripples that catch the light, and the gentle sway of vegitation that softly underscores the entire scene.  **artifish** seeks to bring that experience to your tablet, phone and flatscreen.  Yes, there are a plethora of aquarium apps out there . . .  artifish is more than a digital aquarium, as the digital waters are inhabited by creatures spawned from code . . . otherworldly, ethereal creatures that only exist when the power is on.
+Few will argue that gazing into an aquarium of beautiful fish can be relaxing, soothing, even meditative.  There is something about the arc of their path, the slow pulsing of the tail and fins. . . the reflective ripples that catch the light, and the gentle sway of vegitation that softly underscores the entire scene.  **artifish** seeks to bring that experience to your tablet, phone and flatscreen.  Yes, there are a plethora of aquarium apps out there . . .  artifish is more than a digital aquarium, as the digital waters are inhabited by critters spawned from code . . . otherworldly, ethereal creatures that only exist when the power is turned on.
 
 **artifish** was born while I was creating an updated and interactive version of John Whitney's 1972 classic, **Matrix III**. This initial prototype consists of six sinuous creatures (the 'fish') whose motion across the screen is governed by the principles of Differential Motion, resulting in a meditative visual counterpoint.
 
