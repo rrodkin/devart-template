@@ -44,6 +44,9 @@ spRunner.position = FindObjectOfType(PM_genSpline).spline.GetPoint3D01(dComp);
 
 ```
 
+![](../project_images/part02-screenshot-01.jpg?raw=true)
+
+
 If I have time -- and it’s not looking so good right now -- I’ll add a diagram of the process/flow between PlayMaker, the hand-coded scripts, User Input, and the fish objects.  Hopefully, the above will be clear enough for now.
 
 
