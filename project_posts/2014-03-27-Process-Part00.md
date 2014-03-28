@@ -43,7 +43,7 @@ While Unity is, obviously, a powerful 3D game engine, it is also quite capable o
 
 Here is a screenshot of the Unity environment.
 
-![Unity Environment / Artifish](../project_images/part00-screenshot-01.jpg?raw=true “Unity Environment”)
+![Unity Environment](../project_images/part00-screenshot-01.jpg?raw=true “Unity Environment”)
 
 
 
